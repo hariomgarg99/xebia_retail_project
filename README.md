@@ -23,7 +23,7 @@ Run [mvn clean install] to install and run all the test cases.
 
 I have included Cobertura for Coverage Analysis and Reporting. To generate reports run [mvn soanr:sonar] . Reports will be generated in the target folder of the project as well as sonar ui on localhost:9000.
 
-The Cobertura branch coverage for the project is 100% and line coverage is 80% till last noticed.
+code coverage for the project is 100% and line coverage is 80% till last noticed.
 
 I have kept this exercise as simple and tried not to overcode. This project contains 10 test cases.
 
