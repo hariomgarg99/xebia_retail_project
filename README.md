@@ -17,8 +17,6 @@ Finds the net payable amount.
 
 Few Notes :-
 
-Since i have created this project using Maven, this can be imported in eclipse as a Maven Project specifying the pom file. Run [mvn clean eclipse:eclipse] to generate eclipse files for the project.
-
 Run [mvn clean install] to install and run all the test cases.
 
 I have included Cobertura for Coverage Analysis and Reporting. To generate reports run [mvn soanr:sonar] . Reports will be generated in the target folder of the project as well as sonar ui on localhost:9000.
